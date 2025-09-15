@@ -1,0 +1,5 @@
+{
+  "name": "Flowtune",
+  "description": "A modern daily scheduler that helps users tune their day like music. It features a timeline view, task management, a Pomodoro timer, and weekly analytics, all wrapped in a sleek 3D neon aesthetic.",
+  "requestFramePermissions": []
+}
